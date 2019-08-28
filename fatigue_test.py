@@ -93,4 +93,5 @@ if __name__ == "__main__":
 
         stage.move_abs(initial_stage_position)
         camera.stop_preview()
+        stage.release_motors()
         print("Done")
