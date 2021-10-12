@@ -4,7 +4,7 @@ h5py==2.9.0
 kiwisolver==1.1.0
 matplotlib==3.0.3
 numpy==1.16.3
-opencv-python-headless==3.4.4.19
+opencv-python-headless==3.4.7.28
 openflexure-microscope==0.1.2
 openflexure-stage==0.2.1
 picamera==1.13.1b0
