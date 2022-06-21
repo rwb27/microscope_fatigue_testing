@@ -3,7 +3,7 @@ future==0.17.1
 h5py==2.9.0
 kiwisolver==1.1.0
 matplotlib==3.0.3
-numpy==1.16.3
+numpy==1.22.0
 opencv-python-headless==3.4.4.19
 openflexure-microscope==0.1.2
 openflexure-stage==0.2.1
